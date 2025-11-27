@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: robot_description
+    relative_path: moveit_robot.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/hand_tutorial.srdf
+  CONFIG:
+    author_name: aiweru
+    author_email: mmuratkhanov17@gmail.com
+    generated_timestamp: 1762850372
